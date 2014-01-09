@@ -1,0 +1,5 @@
+C:\Users\Peter\Desktop\#Nmea\nmeaparser_3472a93af992\NMEAParser\bin\Debug\NMEAParser.dll
+C:\Users\Peter\Desktop\#Nmea\nmeaparser_3472a93af992\NMEAParser\bin\Debug\NMEAParser.pdb
+C:\Users\Peter\Desktop\#Nmea\nmeaparser_3472a93af992\NMEAParser\obj\Debug\NMEAParser.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\#Nmea\nmeaparser_3472a93af992\NMEAParser\obj\Debug\NMEAParser.dll
+C:\Users\Peter\Desktop\#Nmea\nmeaparser_3472a93af992\NMEAParser\obj\Debug\NMEAParser.pdb

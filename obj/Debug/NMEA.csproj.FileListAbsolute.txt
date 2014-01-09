@@ -1,0 +1,30 @@
+C:\Users\Peter\Desktop\NMEA\NMEA\bin\Debug\NMEA.exe.config
+C:\Users\Peter\Desktop\NMEA\NMEA\bin\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA\NMEA\bin\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA\NMEA\obj\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA\NMEA\obj\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA\NMEA\obj\Debug\NMEA.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\NMEA parser c#\bin\Debug\NMEA.exe.config
+C:\Users\Peter\Desktop\NMEA parser c#\obj\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA parser c#\obj\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA parser c#\bin\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA parser c#\bin\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA parser c#\obj\Debug\NMEA.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\bin\Debug\NMEA.exe.config
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\obj\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\obj\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\bin\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\bin\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_parser_in_C_sharp\obj\Debug\NMEA.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\bin\Debug\NMEA.exe.config
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\obj\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\obj\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\bin\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\bin\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_String parser_in_C_sharp\obj\Debug\NMEA.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\NMEA_parser\bin\Debug\NMEA.exe.config
+C:\Users\Peter\Desktop\NMEA_parser\obj\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_parser\obj\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_parser\bin\Debug\NMEA.exe
+C:\Users\Peter\Desktop\NMEA_parser\bin\Debug\NMEA.pdb
+C:\Users\Peter\Desktop\NMEA_parser\obj\Debug\NMEA.csprojResolveAssemblyReference.cache
